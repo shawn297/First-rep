@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("Image/AI-image.1.png");
+    background-size: cover;        /* Makes image cover the whole screen */
+    background-position: center;   /* Keeps image centered */
+    background-repeat: no-repeat;  /* Prevents repeating */
+    background-attachment: fixed;  /* Image stays fixed when scrolling */
+    min-height: 100vh;             /* Full screen height */
+}
+
+.navbar{
+	width: 95%;
+	height: auto;
+	margin-left: 30px;
+}
+
+.logo{
+    color: #ff7200;
+	font-size: 40px;
+	font-family: cursive;
+	float: left;
+	padding-top: .6%;
+	cursor: pointer;
+}
+
+.menu{
+	width: 600px;
+	float: left;
+	height: 70px;
+}
+
+ul{
+	float: left;
+	display: flex;
+	padding-top: 30px;
+	justify-content: center;
+	align-items: center;
+	margin-left: 14%;
+}
+ul li{
+	list-style: none;
+	margin-left: 60px;
+	font-size: 16px;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-family: Arial , helvetica, sans-serif;
+	font-weight: bold;
+	transition: .3s ease;
+}
+
+ul li a:hover{
+	color: #ff0000;
+}
+
+h1{
+    color: yellow;
+    background-color: cyan;
+    padding: 10px;
+}
+
+.preview{
+    color: cyan;
+    padding: 25% 15%;
+}
+
+.text{
+    color: white;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+
+.preview2{
+    color: red;
+    padding: 15% 10%;
+}
+
+.text2{
+    color: white;
+}
+
+.preview3{
+    color: cyan;
+    padding: 25% 15%;
+}
+
+.text3{
+    color: white;
+}
+
+.preview4{
+    color: cyan;
+    padding: 15% 10%;
+}
+
+.text4{
+    color: white;
+}
+
+.preview5{
+    color: cyan;
+    padding: 25% 15%;
+}
+
+.text5{
+    color: white;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    color: yellow;
+}
+
+.footerP{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: yellow;
+}
+
+.footer{
+    background-color: black;
+    padding: 10px 0;
+}
