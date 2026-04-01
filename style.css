@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url("Image/AI-image.1.png");
+    background-image: url("download\ \(6\).jpg");
     background-size: cover;        /* Makes image cover the whole screen */
     background-position: center;   /* Keeps image centered */
     background-repeat: no-repeat;  /* Prevents repeating */
@@ -110,6 +110,51 @@ h1{
 }
 
 .text5{
+    color: white;
+}
+
+.preview6{
+    color: cyan;
+    padding: 15% 10%;
+}
+
+.text6{
+    color: white;
+}
+
+.preview7{
+    color: cyan;
+    padding: 25% 15%;
+}
+
+.text7{
+    color: white;
+}
+
+.preview8{
+    color: cyan;
+    padding: 15% 10%;
+}
+
+.text8{
+    color: white;
+}
+
+.preview9{
+    color: cyan;
+    padding: 25% 15%;
+}
+
+.text9{
+    color: white;
+}
+
+.preview10{
+    color: cyan;
+    padding: 15% 10%;
+}
+
+.text10{
     color: white;
 }
 
